@@ -1,3 +1,0 @@
-displayName = PurringTail
-author = The Purring Kitty
-version = 1.4.6
